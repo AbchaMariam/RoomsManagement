@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoomsManagement.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6073288ced04875d4f6af70d2061a0d8a7ae07a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoomsManagement.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoomsManagement.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
